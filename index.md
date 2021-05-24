@@ -1,5 +1,7 @@
 ## Jamulus 3.7.0 Bookmarks
-## Note: This is not an official release. This is a patch on the 3.7.0. stable release!
+## Note: This is not an official release!
+## For official releases please visit https://jamulus.io
+## This is a patch on the 3.7.0. stable release!
 
 [Download for Windows]
 
