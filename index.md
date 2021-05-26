@@ -24,5 +24,6 @@ This patch adds the ability to maintain a list of your favourite servers.
 # Story behind this patch
 
 - During WorldJam performances performers need to change servers multiple times. 
-- As a performer I found this to be not convenient. As you are alredy quite nervous about your performance. So I came up with the idea of a server list that could be maintained and used for quick transition between servers. Hence the multiple buttons on the dialog for connecting. Based on feedback from others this idea evolved into a bookmark list.
+- As a performer I found this to be not convenient. As you are alredy quite nervous about your performance. 
+- So I came up with the idea of a server list that could be maintained and used for quick transition between servers. Hence the multiple buttons on the dialog for connecting. Based on feedback from others this idea evolved into a bookmark list.
 
