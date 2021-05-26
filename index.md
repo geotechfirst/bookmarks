@@ -21,4 +21,4 @@
 
 - During WorldJam performances performers need to change servers multiple times. Using the currently available method this is not convenient.
 - Sound engineers and other organisers need to move around a lot too.
-- Most of these transitions are pre-defined and lists can be generated to provide a convenient path through the process.
+
