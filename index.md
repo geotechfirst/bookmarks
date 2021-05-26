@@ -13,7 +13,7 @@
 # How does it work?
 
 ![](jamulus-menu.png)
-- The dialog is hidden by default it will show if you either **Add bookmark** or **Load bookmarks** file.
+- The **Bookmarks** dialog is hidden by default, it will show if you either **Add bookmark** or **Load bookmarks** file.
 - To add a bookmarks you need to connect to a server first. Then click add bookmark.
 - To load bookmarks click on the menu item
 
