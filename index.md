@@ -9,7 +9,15 @@
 
 # [Download Source Code](https://github.com/geotechfirst/jamulus/archive/refs/heads/r3_7_0-patch.zip)
 
-How does it work?
+
+# How does it work?
+
 - The dialog is hidden by default it will show if you either add a bookmark or load a bookmarks file.
 - To add a bookmarks you need to connect to a server first. Then click add bookmark.
 - To load bookmarks click on the menu item
+
+# Story behind this patch
+
+- During WorldJam performances performers need to change servers multiple times. Using the currently available method this is not convenient.
+- Sound engineers and other organisers need to move around a lot too.
+- Most of these transitions are pre-defined and lists can be generated to provide a convenient path through the process.
