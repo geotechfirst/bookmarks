@@ -13,7 +13,7 @@
 
 # [Download Source Code](https://github.com/geotechfirst/jamulus/archive/refs/heads/r3_7_0-patch.zip)
 
-
+---
 # How does it work?
 
 ![](jamulus-menu.png)
