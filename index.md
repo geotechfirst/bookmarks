@@ -11,7 +11,7 @@
 
 # [Download Mac OS dmg](https://github.com/geotechfirst/jamulus/releases/download/r3_7_0_bm1/Jamulus-3.7.0.bookmarks-installer-mac.dmg)
 
-# [Download Source Code](https://github.com/geotechfirst/jamulus/archive/refs/heads/r3_7_0-patch.zip)
+# [Download Source Code](https://github.com/geotechfirst/jamulus/archive/refs/tags/r3_7_0_bm1.zip)
 
 ---
 # How does it work?
