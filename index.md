@@ -2,11 +2,11 @@
 ![](bookmarks.png)
 ## Note: This is not an official release! For official releases please visit <https://jamulus.io>
 ## This is a patch on the 3.7.0. stable release.
---
+---
 # What is this?
 
 ### This patch adds the ability to maintain a list of your favourite servers.
---
+---
 # [Download Windows Installer](https://github.com/geotechfirst/jamulus/releases/download/r3_7_0_bm1/Jamulus-3.7.0.bookmarks-installer-win.exe)
 
 # [Download Mac OS dmg](https://github.com/geotechfirst/jamulus/releases/download/r3_7_0_bm1/Jamulus-3.7.0.bookmarks-installer-mac.dmg)
