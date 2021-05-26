@@ -5,7 +5,7 @@
 
 # What is this?
 
-This patch adds the ability to maintain a list of your favourite servers.
+## This patch adds the ability to maintain a list of your favourite servers.
 
 # [Download Windows Installer](https://github.com/geotechfirst/jamulus/releases/download/r3_7_0_bm1/Jamulus-3.7.0.bookmarks-installer-win.exe)
 
