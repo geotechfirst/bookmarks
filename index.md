@@ -9,3 +9,7 @@
 
 # [Download Source Code](https://github.com/geotechfirst/jamulus/archive/refs/heads/r3_7_0-patch.zip)
 
+How does it work?
+- The dialog is hidden by default it will show if you either add a bookmark or load a bookmarks file.
+- To add a bookmarks you need to connect to a server first. Then click add bookmark.
+- To load bookmarks click on the menu item
